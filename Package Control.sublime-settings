@@ -5,14 +5,11 @@
 	],
 	"installed_packages":
 	[
-		"ayu",
 		"Babel",
-		"Boxy Theme",
-		"Boxy Theme Addon - Font Face",
+		"Colorsublime",
 		"JsFormat",
 		"Materialize",
 		"Package Control",
-		"Predawn",
 		"SublimeLinter"
 	]
 }

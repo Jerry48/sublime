@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Materialize/schemes/Material Behave.tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/candy-crush.tmTheme",
 	"font_face": "Menlo",
 	"font_options":
 	[
@@ -8,7 +8,8 @@
 	"font_size": 11,
 	"ignored_packages":
 	[
+		"0_package_control_loader",
 		"Vintage"
 	],
-	"theme": "Boxy Ocean.sublime-theme"
+	"theme": "Default.sublime-theme"
 }
