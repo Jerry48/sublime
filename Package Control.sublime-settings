@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ayu",
+		"Babel",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
+		"JsFormat",
+		"Materialize",
+		"Package Control",
+		"Predawn",
+		"SublimeLinter"
+	]
+}

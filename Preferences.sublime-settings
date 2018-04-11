@@ -1,0 +1,14 @@
+{
+	"color_scheme": "Packages/Materialize/schemes/Material Behave.tmTheme",
+	"font_face": "Menlo",
+	"font_options":
+	[
+		"no_italic"
+	],
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Boxy Ocean.sublime-theme"
+}
